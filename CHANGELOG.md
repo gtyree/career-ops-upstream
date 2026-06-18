@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.13.0](https://github.com/santifer/career-ops/compare/career-ops-v1.12.0...career-ops-v1.13.0) (2026-06-18)
+
+
+### Features
+
+* **dashboard:** customizable columns with column picker ([#979](https://github.com/santifer/career-ops/issues/979)) ([9d1404f](https://github.com/santifer/career-ops/commit/9d1404f32022b552e2dea1d773e0a10a22e2c004))
+* **modes:** optional voice-dna.md writing guardrail ([#998](https://github.com/santifer/career-ops/issues/998)) ([018eb0f](https://github.com/santifer/career-ops/commit/018eb0f692b801104959739151a4303cf5d2717e))
+* **portals:** add verify-portals.mjs ATS slug validator ([#1016](https://github.com/santifer/career-ops/issues/1016)) ([7aeb016](https://github.com/santifer/career-ops/commit/7aeb01652d1b6c00ce31f561aa40b61c631515d0))
+
+
+### Bug Fixes
+
+* auto-create data/pipeline.md and harden Playwright doctor check ([#1059](https://github.com/santifer/career-ops/issues/1059)) ([188cf76](https://github.com/santifer/career-ops/commit/188cf7601aa5d776b10a0c33c035e4d0f6199dfe))
+* **batch:** use awk instead of bc for score math ([#735](https://github.com/santifer/career-ops/issues/735)) ([afa74c2](https://github.com/santifer/career-ops/commit/afa74c2b8755b2e0f33d164c92e0beccf528dc88))
+* **contract:** expand interview-prep/* coverage in DATA_CONTRACT ([#1060](https://github.com/santifer/career-ops/issues/1060)) ([d19db79](https://github.com/santifer/career-ops/commit/d19db79554362cdd26736fef10bdaa9afaba4624))
+
 ## [1.12.0](https://github.com/santifer/career-ops/compare/career-ops-v1.11.0...career-ops-v1.12.0) (2026-06-18)
 
 
